@@ -1,4 +1,4 @@
-package EjemploSeis;
+package EjemploCinco;
 
 public class CuentaBancaria {
     public double saldo;
